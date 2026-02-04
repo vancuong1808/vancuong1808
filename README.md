@@ -1,13 +1,18 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=CUONG%20VO&fontSize=45&color=0:00F7FF,100:007CF0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=CUONG%20VO&fontSize=42&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </p>
+
+<!-- Main Role Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+I'm+Cuong+Vo;Backend+.NET+Developer;Future+Fullstack+Engineer;AI+Enthusiast;Building+Systems+That+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Backend+.NET+Developer;Future+Fullstack+Engineer;AI+Enthusiast;Building+Systems+That+Work" />
 </p>
+
+<!-- Subtitle Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=7CFC00&center=true&vCenter=true&width=700&lines=Clean+Architecture+Mindset;Problem+Solver;Learning+AI+%2B+Backend;Always+Shipping+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=650&lines=Clean+Architecture+Mindset;Problem+Solver;Learning+AI+%2B+Backend;Always+Shipping+Code" />
 </p>
+
 
 ---
 
