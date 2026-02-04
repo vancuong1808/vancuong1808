@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cuong Vo 👋</h1>
 <p align="center">
-  Backend Developer (.NET) | Future Fullstack Engineer | AI Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Engineer;Backend+%7C+System+Design;AI+Integration+Learner;Always+Building+Real+Systems" />
 </p>
 
 ---
@@ -21,25 +21,37 @@ Besides university coursework, I actively **self-study modern technologies** and
 
 ## 🧠 Technical Focus
 
-**Backend Development**
-- ASP.NET Core
-- Entity Framework Core
-- RESTful API Design
-- Clean Architecture
+## ⚙️ Tech Stack
 
-**Database**
-- MySQL  
-- MongoDB (Native Driver)
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python" />
+</p>
 
-**Programming & CS Foundations**
-- Data Structures & Algorithms  
-- OOP & Design Patterns  
-- System Design Basics  
+### 🧠 Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,fastapi" />
+</p>
 
-**AI & Data (Expanding Field)**
-- Python for logic training  
-- Basic Machine Learning concepts  
-- Mathematical foundations (Vectors, Geometry)
+### 🌐 Frontend Understanding
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+</p>
+
+### 🤖 AI / Data Direction
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ---
 
@@ -70,6 +82,25 @@ My working style:
 > **Do not fear failure. Fear not taking action.**
 
 ---
+
+## 🎯 Engineering Focus
+
+```text
+Backend Architecture  ████████████░░
+System Design         ██████████░░░░
+Database Modeling     ███████████░░░
+DevOps Fundamentals   ████████░░░░░░
+AI Integration        ███████░░░░░░░
+```
+
+## 📚 Currently Learning
+
+- Advanced ASP.NET Core Architecture  
+- System Design Patterns  
+- Python for Data Processing  
+- Machine Learning Foundations  
+- AI integration into Web Systems  
+
 
 ## 🎯 Career Goal
 
