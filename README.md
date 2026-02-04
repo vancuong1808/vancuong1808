@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=CUONG%20VO&fontSize=42&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=VO%20VAN%20CUONG%20&fontSize=42&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </p>
 
 <!-- Main Role Typing -->
@@ -10,7 +10,7 @@
 
 <!-- Subtitle Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=650&lines=Clean+Architecture+Mindset;Problem+Solver;Learning+AI+%2B+Backend;Always+Shipping+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=7CFC00&center=true&vCenter=true&width=650&lines=Clean+Architecture+Mindset;Problem+Solver;Learning+AI+%2B+Backend;Always+Shipping+Code" />
 </p>
 
 
