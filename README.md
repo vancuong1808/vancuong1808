@@ -20,30 +20,6 @@ Besides university coursework, I actively **self-study modern technologies** and
 
 ---
 
-## 🧠 Technical Focus
-
-### Backend Development
-- ASP.NET Core  
-- Entity Framework Core  
-- RESTful API Design  
-- Clean Architecture  
-
-### Database
-- MySQL  
-- MongoDB (Native Driver)  
-
-### Programming & CS Foundations
-- Data Structures & Algorithms  
-- OOP & Design Patterns  
-- System Design Basics  
-
-### AI & Data (Expanding Field)
-- Python for logic training  
-- Basic Machine Learning concepts  
-- Mathematical foundations (Vectors, Geometry)  
-
----
-
 ## ⚙️ Tech Stack
 
 ### 💻 Programming
