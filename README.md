@@ -1,10 +1,12 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Cuong+Vo;Backend+.NET+Developer;Future+Fullstack+Engineer;AI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=CUONG%20VO&fontSize=45&color=0:00F7FF,100:007CF0&animation=fadeIn" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vancuong1808&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+I'm+Cuong+Vo;Backend+.NET+Developer;Future+Fullstack+Engineer;AI+Enthusiast;Building+Systems+That+Work" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=7CFC00&center=true&vCenter=true&width=700&lines=Clean+Architecture+Mindset;Problem+Solver;Learning+AI+%2B+Backend;Always+Shipping+Code" />
 </p>
 
 ---
@@ -68,15 +70,6 @@ I aim to grow into a **strong fullstack engineer** with deep backend expertise a
 🤝 Worked in group development environments  
 🔄 Experienced real development workflow  
 🧩 Improved teamwork & communication  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vancuong1808&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancuong1808&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
