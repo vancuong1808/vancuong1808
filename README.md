@@ -36,7 +36,7 @@ I aim to grow into a **strong fullstack engineer** with deep backend expertise a
 
 ### 🧠 Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi" />
 </p>
 
 ### 🌐 Frontend Understanding
@@ -46,12 +46,12 @@ I aim to grow into a **strong fullstack engineer** with deep backend expertise a
 
 ### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
 </p>
 
 ### 🤖 AI / Data Direction
